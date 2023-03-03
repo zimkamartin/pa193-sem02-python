@@ -1,0 +1,1 @@
+Hello there! This is file to test newly created and added GPG key into GitHub.
